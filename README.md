@@ -24,6 +24,9 @@ However, this slightly smaller case is guessed incorrectly.
 ### Program Environment
 The program was originally written for the Codio environment (codio.com). It can work in the Dev-C++. I believe there should be no real restrictions with other environments, though I have not checked.
 
+### Sources
+"MacbethEsperanto.txt" was taken from <a href="http://www.gutenberg.org/files/47913/47913-0.txt" target="_blank">gutenburg project</a>. All other Macbeth documents were retrieved from Professor Reed Dale with the original project description. The files "Text for testing.txt" and "countInputCharsFromFile.cpp" also came with the original project description by Professor Reed Dale.
+
 ### License
 MIT © SunWithIssues
 
